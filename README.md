@@ -299,7 +299,6 @@
 + [未授权访问的tips](https://xz.aliyun.com/t/2320)
 + [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 + [未授权访问漏洞的检测与利用 ](https://thief.one/2017/12/08/1/)
-+ [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 + [挖洞技巧：信息泄露之总结](https://www.anquanke.com/post/id/94787)
 ### redis
 + [利用redis写webshell](https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html)
