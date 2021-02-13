@@ -259,7 +259,7 @@
 + [基于时间反馈的RCE](http://www.mottoin.com/article/web/97678.html)
 + [正则表达式使用不当引发的系统命令执行漏洞](https://www.anquanke.com/post/id/85698)
 + [命令注入突破长度限制 ](http://www.freebuf.com/articles/web/154453.html)
-  
+
 ## 文件包含
 + [php文件包含漏洞 ](https://chybeta.github.io/2017/10/08/php%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/)
 + [Turning LFI into RFI](https://l.avala.mp/?p=241)
@@ -283,18 +283,17 @@
 + [Web安全 — 上传漏洞绕过 ](http://www.freebuf.com/column/161357.html)
 + [上传绕过WAF](http://docs.ioin.in/writeup/www.am0s.com/_jchw_376_html/index.html)
 
-## 逻辑漏洞
-+ [代码审计之逻辑上传漏洞挖掘](http://wooyun.jozxing.cc/static/drops/papers-1957.html)
+## 逻辑漏洞 (Business Logic Vulnerabilities)
 + [逻辑至上——内含各种酷炫姿势](https://www.anquanke.com/post/id/85947)
 + [Web安全测试中常见逻辑漏洞解析（实战篇）](http://www.freebuf.com/vuls/112339.html)
 + [逻辑漏洞之密码重置 ](https://mp.weixin.qq.com/s/Lynmqd_ieEoNJ3mmyv9eQQ)
 + [逻辑漏洞之支付漏洞](https://mp.weixin.qq.com/s/w22omfxO8vU6XzixXWmBxg)
 + [逻辑漏洞之越权访问](https://mp.weixin.qq.com/s/ChiXtcrEyQeLkGOkm4PTog)
-+ [密码找回逻辑漏洞总结](http://wooyun.jozxing.cc/static/drops/web-5048.html)
-+ [一些常见的重置密码漏洞分析整理](http://wooyun.jozxing.cc/static/drops/papers-2035.html)
 + [密码逻辑漏洞小总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_643/index.html)
 + [漏洞挖掘之逻辑漏洞挖掘](https://bbs.ichunqiu.com/thread-21161-1-1.html)
 + [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
++ [逻辑漏洞总结](https://mingxin.live/article/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
++ [Portswigger Business logic vulnerabilities](https://portswigger.net/web-security/logic-flaws#:~:text=Business%20logic%20vulnerabilities%20are%20flaws,attacker%20to%20elicit%20unintended%20behavior.)
 
 ## 未授权访问/信息泄露
 + [未授权访问的tips](https://xz.aliyun.com/t/2320)
@@ -323,7 +322,7 @@
 + [实战web缓存中毒](https://xz.aliyun.com/t/2585)
 + [WEB CACHE DECEPTION ATTACK](https://drive.google.com/file/d/0BxuNjp5J7XUIdkotUm5Jem5IZUk/view)
 + [详解Web缓存欺骗攻击](https://www.anquanke.com/post/id/86516)
-  
+
 
 ## PHP相关
 ### 弱类型
@@ -618,4 +617,3 @@
 + [CRLF Injection and Bypass Tencent WAF ](https://zhchbin.github.io/2016/01/31/CRLF-Injection-and-Bypass-WAF/)
 + [Web之困笔记](http://www.au1ge.xyz/2017/08/09/web%E4%B9%8B%E5%9B%B0%E7%AC%94%E8%AE%B0/)
 + [技术详解：基于Web的LDAP注入漏洞](http://www.4hou.com/technology/9090.html)
-
