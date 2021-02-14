@@ -1,7 +1,8 @@
 # [Web-Security-Learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 
-Original： https://github.com/CHYbeta/Web-Security-Learning
-Update the resource links here: https://github.com/EvilC0der/Web-Security-Learning
+[Original Project here](https://github.com/CHYbeta/Web-Security-Learning)
+
+[Update the resource links here](https://github.com/EvilC0der/Web-Security-Learning)
 
 目录：
 - [Web-Security-Learning](#web-security-learning)
