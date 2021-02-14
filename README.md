@@ -250,7 +250,7 @@
 
 ## 代码执行 / 命令执行
 + [从PHP源码与扩展开发谈PHP任意代码执行与防御](https://blog.zsxsoft.com/post/30)
-+ [Command Injection/Shell Injection](https://www.exploit-db.com/docs/42593.pdf)
++ [Command Injection/Shell Injection](https://www.exploit-db.com/papers/42593)
 + [PHP Code Injection Analysis](http://www.polaris-lab.com/index.php/archives/254/)
 + [	利用环境变量LD_PRELOAD来绕过php disable_function执行系统命令](http://doc.ph0en1x.com/wooyun_drops/%E5%88%A9%E7%94%A8%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8FLD_PRELOAD%E6%9D%A5%E7%BB%95%E8%BF%87php%20disable_function%E6%89%A7%E8%A1%8C%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4.html)
 + [Hack PHP mail additional_parameters](http://blog.nsfocus.net/hack-php-mail-additional_parameters/)
