@@ -22,8 +22,8 @@
   - [代码执行 / 命令执行](#代码执行--命令执行)
   - [文件包含](#文件包含)
   - [文件上传 / 解析漏洞](#文件上传--解析漏洞)
-  - [逻辑漏洞](#逻辑漏洞)
-  - [未授权访问/信息泄露](#未授权访问信息泄露)
+  - [逻辑漏洞 (Business Logic Vulnerabilities)](#逻辑漏洞 (Business Logic Vulnerabilities))
+  - [未授权访问/信息泄露 (Unauthorized Access/Information Disclosure)](#未授权访问/信息泄露 (Unauthorized Access/Information Disclosure))
     - [redis](#redis)
   - [RPO(relative path overwrite)](#rporelative-path-overwrite)
   - [Web Cache](#web-cache)
@@ -272,12 +272,10 @@
 
 ## 文件上传 / 解析漏洞
 + [Upload-labs通关手册](https://xz.aliyun.com/t/2435)
-+ [文件上传和WAF的攻与防](https://www.secfree.com/article-585.html)
 + [我的WafBypass之道（upload篇）](https://xz.aliyun.com/t/337)
 + [文件上传漏洞（绕过姿势） ](http://thief.one/2016/09/22/%E4%B8%8A%E4%BC%A0%E6%9C%A8%E9%A9%AC%E5%A7%BF%E5%8A%BF%E6%B1%87%E6%80%BB-%E6%AC%A2%E8%BF%8E%E8%A1%A5%E5%85%85/)
 + [服务器解析漏洞 ](http://thief.one/2016/09/21/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E/)
 + [文件上传总结 ](https://masterxsec.github.io/2017/04/26/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%80%BB%E7%BB%93/)
-+ [代码审计之逻辑上传漏洞挖掘](http://wooyun.jozxing.cc/static/drops/papers-1957.html)
 + [渗透测试方法论之文件上传](https://bbs.ichunqiu.com/thread-23193-1-1.html?from=sec)
 + [关于文件名解析的一些探索](https://landgrey.me/filetype-parsing-attack/)
 + [Web安全 — 上传漏洞绕过 ](http://www.freebuf.com/column/161357.html)
@@ -295,7 +293,7 @@
 + [逻辑漏洞总结](https://mingxin.live/article/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E6%80%BB%E7%BB%93/)
 + [Portswigger Business logic vulnerabilities](https://portswigger.net/web-security/logic-flaws#:~:text=Business%20logic%20vulnerabilities%20are%20flaws,attacker%20to%20elicit%20unintended%20behavior.)
 
-## 未授权访问/信息泄露
+## 未授权访问/信息泄露 (Unauthorized Access/Information Disclosure)
 + [未授权访问的tips](https://xz.aliyun.com/t/2320)
 + [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 + [未授权访问漏洞的检测与利用 ](https://thief.one/2017/12/08/1/)
