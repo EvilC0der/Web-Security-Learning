@@ -423,12 +423,10 @@
 
 ## python-Web
 + [python web 安全总结](http://bobao.360.cn/learning/detail/4522.html)
-+ [Defencely Clarifies Python Object Injection Exploitation](http://defencely.com/blog/defencely-clarifies-python-object-injection-exploitation/)
 + [Exploiting Python Deserialization Vulnerabilities](https://crowdshield.com/blog.php?name=exploiting-python-deserialization-vulnerabilities)
 + [Explaining and exploiting deserialization vulnerability with Python(EN)](https://dan.lousqui.fr/explaining-and-exploiting-deserialization-vulnerability-with-python-en.html)
 + [Python PyYAML反序列化漏洞实验和Payload构造](http://www.polaris-lab.com/index.php/archives/375/)
 + [Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html)
-+ [format注入](http://www.venenof.com/index.php/archives/360/)
 + [Be Careful with Python's New-Style String Format](http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/)
 + [Python urllib HTTP头注入漏洞](http://www.tuicool.com/articles/2iIj2eR)
 + [Hack Redis via Python urllib HTTP Header Injection](https://security.tencent.com/index.php/blog/msg/106)
@@ -439,6 +437,8 @@
 + [pyt: 针对 Python 应用程序的源码静态分析工具](https://github.com/python-security/pyt)
 + [Exploiting Python PIL Module Command Execution Vulnerability](http://docs.ioin.in/writeup/github.com/_neargle_PIL_RCE_By_GhostButt/index.html)
 + [文件解压之过 Python中的代码执行](http://bobao.360.cn/learning/detail/4503.html)
++ [Escalating Deserialization Attacks Python](https://frichetten.com/blog/escalating-deserialization-attacks-python/)
++ [Preventing SQL injections in Python](https://blog.sqreen.com/preventing-sql-injections-in-python/)
 
 ## Node-js
 + [浅谈Node.js Web的安全问题](http://www.freebuf.com/articles/web/152891.html)
