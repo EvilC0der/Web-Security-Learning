@@ -430,7 +430,6 @@
 + [Be Careful with Python's New-Style String Format](http://lucumr.pocoo.org/2016/12/29/careful-with-str-format/)
 + [Python urllib HTTP头注入漏洞](http://www.tuicool.com/articles/2iIj2eR)
 + [Hack Redis via Python urllib HTTP Header Injection](https://security.tencent.com/index.php/blog/msg/106)
-+ [Python Waf黑名单过滤下的一些Bypass思路](http://www.0aa.me/index.php/archives/123/)
 + [Python沙箱逃逸的n种姿势](https://mp.weixin.qq.com/s/PLI-yjqmA3gwk5w3KHzOyA)
 + [利用内存破坏实现Python沙盒逃逸 ](https://mp.weixin.qq.com/s/s9fAskmp4Bb42OYsiQJFaw)
 + [Python Sandbox Bypass](https://mp.weixin.qq.com/s?__biz=MzIzOTQ5NjUzOQ==&mid=2247483665&idx=1&sn=4b18de09738fdc5291634db1ca2dd55a)
@@ -439,6 +438,9 @@
 + [文件解压之过 Python中的代码执行](http://bobao.360.cn/learning/detail/4503.html)
 + [Escalating Deserialization Attacks Python](https://frichetten.com/blog/escalating-deserialization-attacks-python/)
 + [Preventing SQL injections in Python](https://blog.sqreen.com/preventing-sql-injections-in-python/)
++ [Bypassing-Web-Application-Firewalls-And-XSS-Filters](https://github.com/frizb/Bypassing-Web-Application-Firewalls)
++ [OWASP Insecure Deserialization with Python](https://davidmatablog.wordpress.com/2020/06/07/owasp-insecure-deserialization-with-python/)
+
 
 ## Node-js
 + [浅谈Node.js Web的安全问题](http://www.freebuf.com/articles/web/152891.html)
